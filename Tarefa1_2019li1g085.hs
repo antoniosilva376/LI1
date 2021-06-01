@@ -1,4 +1,4 @@
--- | Este módulo define funções comuns da Tarefa 2 do trabalho prático.
+-- | Este módulo define funções comuns da Tarefa 1 do trabalho prático.
 module Tarefa1_2019li1g085 where
 
 import LI11920
