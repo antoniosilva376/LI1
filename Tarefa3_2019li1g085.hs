@@ -15,9 +15,7 @@ ou seja, tentar agrupar horizontalmente após agrupar verticalmente.
 = Conclusão
 
 Acreditamos que fizemos o melhor que conseguimos. Apesar de não termos apresentado a 3ª alternativa (teleporta),
-achamos que conseguimos um resultado, não perfeito, mas aceitável e equilibrado. Desvendar a "magia" por de trás
-da Teleporta, infelizmente até hoje não desvendado por nós, foi o maior desafio das tarefas.
-
+achamos que conseguimos um resultado, não perfeito, mas aceitável e equilibrado.
 -}
 
 module Tarefa3_2019li1g085 where
